@@ -11,8 +11,6 @@ namespace CSharp_Shell
         {
            try
            {
-           	Console.ForegroundColor = ConsoleColor.White;
-           	
                 Console.WriteLine("--------------------------------");
                 Console.WriteLine("Operators:");
                 Console.WriteLine("+ = Add");
